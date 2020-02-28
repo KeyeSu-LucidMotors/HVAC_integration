@@ -1,4 +1,4 @@
-classdef evaporator < unit  
+classdef heater < unit  
   
   methods 
 ##    constructor
